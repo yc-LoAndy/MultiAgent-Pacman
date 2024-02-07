@@ -1,3 +1,4 @@
+# MultiAgnet Pacman
 This is an assignment of designing agents for the classic version of Pacman, including ghosts. There are 4 types of agents:
 + Reflex Agent: An agent that only considers the current information to choose actions and does not think further.
 + Minimax Agent: An agent using an adversarial search algorithm to evaluate the minimax value of each node in the fully expanded game state tree, and choose the optimal action accordingly.
